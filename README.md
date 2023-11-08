@@ -1,16 +1,13 @@
-# costest
+# 一个腾讯云cos对象储存示例
 
-A new Flutter project.
+给有阅读障碍的同学（本人深受其害）
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Sherlocksuper/cos-test/assets/116318567/69ec331c-417c-43dc-a15b-babc5dae881b)
+所有你需要配置的东西仅仅只有这里
+目前
+1.照片示例
+2.视频示例
+3.根据路径列出所有云上资源
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
