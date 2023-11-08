@@ -9,7 +9,8 @@ import 'state.dart';
 
 class VideoTestLogic extends GetxController {
   final VideoTestState state = VideoTestState();
-  final cos = Get.put(CosController());
+
+  final cos = Get.find<CosController>();
 
   Future<void> choseVideo() async {
     ImagePicker picker = ImagePicker();

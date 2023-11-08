@@ -8,7 +8,7 @@ import 'state.dart';
 class PhotoTestLogic extends GetxController {
   final PhotoTestState state = PhotoTestState();
 
-  final cosLogic = Get.put(CosController());
+  final cosLogic = Get.find<CosController>();
 
   Future<void> choseImage() async {
     final ImagePicker picker = ImagePicker();
